@@ -1,4 +1,4 @@
-# 🔍 Predicting Tech Industry Layoffs Using Machine Learning
+# 🔍 Tech Industry Layoffs Analysis Using Machine Learning
 
 <div align="center">
 
