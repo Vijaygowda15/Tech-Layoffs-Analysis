@@ -6,12 +6,11 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Neural%20Network-FF6F00?logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-Academic-lightgrey)
 
 **M.Sc. Dissertation | Data Science and Analytics | JAIN (Deemed-to-be University)**
 
-*Yenikonda Amrutha · Vijay N · Sumanth C S*
+· Vijay N · 
 
 *Under the guidance of Dr. Santosh Shivraj Singh Chowhan*
 
@@ -312,13 +311,6 @@ Using ML to predict job losses carries important responsibilities:
 
 ---
 
-## 👥 Team
-
-| Name | Roll No | Contribution |
-|------|---------|-------------|
-| Yenikonda Amrutha | 23MSRDS071 | Data preprocessing, EDA, Neural Network modeling |
-| Vijay N | 23MSRDS078 | Random Forest, hyperparameter tuning, results analysis |
-| Sumanth C S | 23MSRDS058 | Regression models, feature engineering, documentation |
 
 **Guide:** Dr. Santosh Shivraj Singh Chowhan, Assistant Professor & Programme Head – PG  
 **Institution:** JAIN (Deemed-to-be University), Department of Data Analytics and Mathematical Sciences  
