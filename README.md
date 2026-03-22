@@ -327,7 +327,6 @@ Key references include:
 - Díaz et al. (2023) — Explainable AI (SHAP/LIME) for HR analytics
 - Pagano et al. (2022) — Fairness and bias in ML employment models
 
-> Full reference list available in the dissertation PDF.
 
 ---
 
